@@ -2,7 +2,7 @@
   "name": "react-auth-box",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://compoundex.github.io/compoundex-web",
+  "homepage": "https://compoundex.com",
   "devDependencies": {
     "@types/react": "^16.4.14",
     "autoprefixer": "6.5.1",
