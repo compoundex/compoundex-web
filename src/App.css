@@ -1,0 +1,11 @@
+/* PAGE */
+@import '~antd/dist/antd.css';
+
+.wallets {
+    max-height: 60px;
+    max-width: 150px;
+}
+
+.wallets:hover {
+    transform: scale(1.5, 1.5);
+}
